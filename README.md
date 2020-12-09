@@ -7,3 +7,5 @@
 - Tracking. A device monitors movements frame by frame to capture every movement and provide accurate input for data analysis.
 - Recognition. The system tries to find patterns based on the gathered data. When the system finds a match and interprets a gesture, it performs the action associated with this gesture. Feature extraction and classification in the scheme below implements the recognition functionality.
 
+![Sample-Images-from-self-developed-Dataset-Hand-Gesture-Recognition-Database-14-also](https://user-images.githubusercontent.com/62444992/101622947-b7713d80-3a3d-11eb-905b-6b89c05bea82.png)
+
